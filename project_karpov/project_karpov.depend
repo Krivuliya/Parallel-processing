@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1410502087 source:c:\users\11\desktop\Третий курс\ЧМ\progi\project_karpov\main.cpp
+	<iostream>
+	"conctants.h"
+	"include/Package.h"
+
+1410442927 c:\users\11\desktop\Третий курс\ЧМ\progi\project_karpov\conctants.h
+
+1410504978 source:c:\users\11\desktop\Третий курс\ЧМ\progi\project_karpov\src\package.cpp
+	"../include/Package.h"
+
+1410504844 c:\users\11\desktop\Третий курс\ЧМ\progi\project_karpov\include\package.h
+	"../conctants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iostream>
+
+1410504978 source:c:\users\11\desktop\kurs_four\karpov\project_karpov\src\package.cpp
+	"../include/Package.h"
+
+1410504844 c:\users\11\desktop\kurs_four\karpov\project_karpov\include\package.h
+	"../conctants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iostream>
+
+1410442927 c:\users\11\desktop\kurs_four\karpov\project_karpov\conctants.h
+
+1410524765 source:c:\users\11\desktop\kurs_four\karpov\project_karpov\main.cpp
+	<iostream>
+	"conctants.h"
+	"include/Package.h"
+
